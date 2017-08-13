@@ -1,3 +1,3 @@
-# Patrick's GIRY Blog
+# Patrick GIRY's Blog
 
 
