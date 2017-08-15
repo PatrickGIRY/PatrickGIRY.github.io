@@ -20,7 +20,7 @@ You have two new directories :
 
 ## Create a first project Hello, World
 
-### SBT new coomand
+### SBT new comand
 
 Go in the directory to host the scala new project and type the following command :
 
@@ -100,4 +100,8 @@ Generated files (compiled classes, packaged jars, managed files, caches, and doc
 
     ./target
 
+### Configuring control version with git
 
+Ingore all target directories with the following `.gitignore` content :
+
+    target/
