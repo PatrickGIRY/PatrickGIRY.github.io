@@ -6,4 +6,4 @@
 
 ## Scala
 
-15/08/2017 - [first steps with SBT}(scala/sbt/first-steps-with-sbt.md) 
+15/08/2017 - [first steps with SBT](scala/sbt/first-steps-with-sbt.md) 
