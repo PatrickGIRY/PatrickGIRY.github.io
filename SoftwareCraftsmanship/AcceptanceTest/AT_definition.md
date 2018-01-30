@@ -1,4 +1,4 @@
-# ATDD definition
+# Acceptance Test definition
 
 Acceptance tests (an essential part of eXtreme Programming) are created from user stories. The customer specifies scenarios to test when a user story has been correctly implemented. A story can have one or many acceptance tests, what ever it takes to ensure the functionality works.
  

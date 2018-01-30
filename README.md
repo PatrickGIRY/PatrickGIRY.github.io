@@ -20,5 +20,5 @@
 
 ### Acceptance test
 
-30/01/2018 - [ATDD Definition](SoftwareCraftsmanship/AcceptanceTest/ATDD_definition.md)
+30/01/2018 - [Acceotance Test Definition](SoftwareCraftsmanship/AcceptanceTest/AT_definition.md)
 
