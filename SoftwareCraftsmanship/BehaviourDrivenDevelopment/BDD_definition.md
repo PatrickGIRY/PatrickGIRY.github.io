@@ -1,4 +1,4 @@
-# BDD defintion
+# BDD definition
 
 Behaviour Driven Development (BDD) is a synthesis and refinement of practices stemming from Test Driven Development (TDD) and Acceptance Test Driven Development (ATDD). BDD augments TDD and ATDD with the following tactics:
 
