@@ -12,5 +12,5 @@
 
 ### Test Driven Develoment
 
-30/01/2018 - [TDD Defintion](SoftwareCraftsmanship/TestDrivenDevelopment/TDD_definition.md)
+30/01/2018 - [TDD Definition](SoftwareCraftsmanship/TestDrivenDevelopment/TDD_definition.md)
 
