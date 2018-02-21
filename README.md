@@ -9,6 +9,9 @@
 15/08/2017 - [first steps with SBT](scala/sbt/first-steps-with-sbt.md) 
 
 ## Software craftsmanship
+### Introduction
+
+21/02/2018 - [Introduction](SoftwareCraftsmanship/software-craftsmanship.md)
 
 ### Test Driven Development
 
