@@ -15,11 +15,11 @@
 ## History
 1. 1992: Jack W. Reeves suggested that software development is more a craft than an engineering practice.
 2. 1999: ![The Pragmatic Programmer: From Journeyman to Master by Andy Hunt and Dave Thomas](http://www.informit.com/ShowCover.aspx?isbn=9780201616224&type=f) is published.
-3. 2001: Book Software Craftsmanship: The New Imperative by Peter McBreen is published.
+3. 2001: ![Software Craftsmanship: The New Imperative](http://www.informit.com/ShowCover.aspx?isbn=9780201733860&type=f) is published.
 4. 2002: Software Apprenticeship Summit in North Carolina, with Ken Auer, Pete McBreen, Ron Jeffries, and Robert Martin (Uncle Bob).
 The conclusion of the summit was a call to action to form a community around software apprenticeship.
 5. 2006:
-   * The company 8th Light is created by Micah Martin and Paul Pagel.
+   * The company [8th Light](https://8thlight.com/) is created by Micah Martin and Paul Pagel.
    * The company Obtiva (acquired by Groupon in August 2011) is created by Dave Hoover.
 6. 2008: Agile conference, Uncle Bob proposed a fifth value for the Agile Manifesto, namely “craftsmanship over crap.” later changed by “craftsmanship over execution”.
 He published the book ![Clean Code: A Handbook of Agile Software Craftsmanship](http://www.informit.com/ShowCover.aspx?isbn=9780132350884&type=f).
