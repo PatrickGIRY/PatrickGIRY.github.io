@@ -6,7 +6,7 @@
 
 ## Scala
 
-15/08/2017 - [first steps with SBT](scala/sbt/first-steps-with-sbt.md) 
+15/08/2017 - [first steps with SBT](scala/sbt/first-steps-with-sbt.md)
 
 ## Software craftsmanship
 ### Introduction
@@ -25,3 +25,6 @@
 
 30/01/2018 - [Acceotance Test Definition](SoftwareCraftsmanship/AcceptanceTest/AT_definition.md)
 
+### Java 10
+
+28/04/2018 - [Create multi modules project with maven et Java 10]()
