@@ -1,9 +1,9 @@
 # Create multi modules project with maven et Java 10
 
 * Project `todoListInJava10` created
-        * JDK 10 selected
-        * groupId set to `experiments`
-        * artifactId set to `todoListInJava10`
+    * JDK 10 selected
+    * groupId set to `experiments`
+    * artifactId set to `todoListInJava10`
     * Add `pom.xml`
         * Packaging set to `pom`
         * Compiler source set to 10
