@@ -11,4 +11,3 @@ describe behaviors in a single notation which is directly accessible to domain e
 * Use nothing but plain business domain language that everyone understands.
 * Describe the behavior, not the way it is implemented.
 * BDD is about communication and behavior. It’s about exploring the unknown. It’s about sharing understanding.
-

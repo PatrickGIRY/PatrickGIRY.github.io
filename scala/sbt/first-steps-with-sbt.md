@@ -1,4 +1,5 @@
 # First steps with SBT
+
 ## Référence site
 
 [SBT reference site](http://www.scala-sbt.org/1.0/docs/Setup.html)

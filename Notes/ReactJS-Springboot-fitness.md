@@ -79,4 +79,3 @@
     npm install react-router-redux -S
     npm install reactstrap -S
     npm install redux -S
-    

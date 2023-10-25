@@ -9,6 +9,7 @@
 15/08/2017 - [first steps with SBT](scala/sbt/first-steps-with-sbt.md)
 
 ## Software craftsmanship
+
 ### Introduction
 
 21/02/2018 - [Introduction](SoftwareCraftsmanship/software-craftsmanship.md)
@@ -25,6 +26,10 @@
 
 30/01/2018 - [Acceotance Test Definition](SoftwareCraftsmanship/AcceptanceTest/AT_definition.md)
 
-### Java 10
+## Java 10
 
 28/04/2018 - [Create multi modules project with maven et Java 10](java10/create-multi-module-project-with-maven-and-java10.md)
+
+## Reat JS
+
+03/05/2018 - [Building a ReactJS application in a crafts way](ReactJS/build-reactjs-app-in-a-crafts-way.md)

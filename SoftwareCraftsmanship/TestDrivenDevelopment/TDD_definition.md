@@ -13,6 +13,3 @@ The benefits when you follow these laws are :
 * These tests are small, focused ''documents'' that describe how to use the production code.
 * They are ''design documents'' that are written in a language that the programmers understand; are unambiguous; are so formal that they ''execute''; and cannot get out of sync with the production code.
 * Every module will be ''testable'' or ''decoupled'' by definition. This means your designs are more flexible, more maintainable, and just cleaner.
-
-
-
